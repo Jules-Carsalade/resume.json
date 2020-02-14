@@ -1,0 +1,64 @@
+{
+    "basics": {
+        "name": "Jules CARSALADE",
+        "label": "Developpeur Full Stack",
+        "picture": "",
+        "email": "jules.carsalade@gmail.com",
+        "phone": "06 87 01 01 17",
+        "website": "jules.carsalade@gmail.com",
+        "summary": "Enthousiaste, en train de me former en tant que développeur Full stack, je suis à la recherche d'une équipe dans laquelle je pourrais donner mon meilleur!",
+        "location": {
+            "address": "291, chemin du tucaut",
+            "postalCode": "31270",
+            "city": "Cugnaux",
+            "countryCode": "US",
+            "region": "Midi-Pyrénée"
+        },
+        "profiles": [
+            {
+                "network": "Linkedin",
+                "username": "Jules Carsalade",
+                "url": "https://www.linkedin.com/in/julesca/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "INP-ENSHEEIT Toulouse",
+            "area": "Web application",
+            "studyType": "Formation Continue",
+            "startDate": "2019-10-01",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Web developpement Full Stack"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Niveau B2"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Esport",
+            "keywords": [
+                "Guild Management",
+                "Entrainement de Groupe"
+            ]
+        }
+    ]
+}
